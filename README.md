@@ -1,6 +1,6 @@
-# COLIBRECON2024
+# COLIBRE
 
-This notebook walks you through some things you might want to do with the COLIBRE data.
+This notebook gives an introduction to the data from the COLIBRE simulations, and some tools that are useful when analysing it.
 
 ### Running on cosma
 
